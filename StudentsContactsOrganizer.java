@@ -55,7 +55,6 @@ public class StudentsContactsOrganizer {
         System.out.println("   0) EXIT\n");
         System.out.println("Enter your choice for the above mentioned menu (1, 2, 3, 4, 5 ,0)");
     }
-
     static void insertMenu() {
     print_function("Students Contacts Organizer: INSERT MENU");
     }
